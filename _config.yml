@@ -2,11 +2,11 @@
 name: "Teddy의 선물 블로그"
 title: "Teddy의 선물 블로그"
 description: "선물하기 좋은 선물을 고르고 골라서 소개하는 블로그입니다."
-logo: 'assets/images/logo.png'
-favicon: 'assets/images/logo.png'
+logo: 'assets/images/logo3.png'
+favicon: 'assets/images/logo3.png'
 baseurl: /
 url: "https://davelee-fun.github.io/"
-google_analytics: 'UA-46278016-1'
+google_analytics: 'UA-83664290-2'
 disqus: 'test-disqus-11'
 mailchimp-list: 'https://wowthemes.us11.list-manage.com/subscribe/post?u=8aeb20a530e124561927d3bd8&amp;id=8c3d2d214b'
 include: ["_pages"]
@@ -20,9 +20,10 @@ authors:
     avatar: 'assets/images/avatar.png'
     gravatar: b1cc14991db7a456fcd761680bbc8f81
     email: dream@fun-coding.org 
-    web: https://davelee-fun.github.io/test/
+    web: https://davelee-fun.github.io/class101/
     twitter: 
     description: "고르기 어려운 선물, 좋은 선물 상품만 찾아서, 모두에게 행복을 드리는데 보람을 가진 블로거입니다. "
+
 
 # Plugins
 plugins:
@@ -41,7 +42,7 @@ jekyll-archives:
     category: '/category/:name/'
     
 # Pagination 
-paginate: 12
+paginate: 12 
 paginate_path: /page:num/
     
 # Other
